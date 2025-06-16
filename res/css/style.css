@@ -66,6 +66,10 @@
     .field.desc ul>li {
       text-align: left
     }
+    
+    .background {
+      background-image: url(https://api.anosu.top/img?sort=mp);/*手机端背景图片*/
+    }
   }
 
   ul>li {
@@ -95,9 +99,6 @@
     text-decoration: none
   }
 
-  .background {
-    background-image: url(https://api.anosu.top/img?sort=mp);/*手机端背景图片*/
-  }
   .brand {
     display: flex;
     align-items: center;
